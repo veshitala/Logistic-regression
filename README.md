@@ -1,2 +1,4 @@
-# Python-A-2-Z
-This repository contains all python basics from very low level to high level production used codes
+# Logistic regression
+This repository contains all python basics implementation  of logistic regression
+
+all the codes are written with complete documentation 
